@@ -1,0 +1,2 @@
+include ':kotlin-mvvm-extensions'
+rootProject.name = "Kotlin-MVVM-Extensions"
